@@ -12,20 +12,21 @@ git config --global --unset user.email
 
 git config --list
 
-==================
+hdgfjdjkfhn cfdhiofuoldfv==================
 touch file1
 ls
 git status
-git add file1
+git add file1hfJKSDAHFIUudsklfmlkkeurt9wseokjfvwgiufy
 git status
 git commit -m "sample commit"
 git status
 git log
-git show
+git showehrfuiewydfjkjhtoijgfrtgu
+hwsdtAJHFweyfgmnrkydfk,gb/.ky 8 4rtg,;lreg
 git show cid
 
 ---------------------------
-touch file2 file3 file4 file5
+touch file2 file3 file4 file5joirutgoisjzklgta n ufj;lejrtiowuej
 ls
 git add file2 file3 file4 file5
 or
